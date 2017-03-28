@@ -1,2 +1,3 @@
 # hello-world-2
-deneme
+Bu benim ilk denemem
+Github klavuzundaki maddeleri teker teker deniyorum. 
